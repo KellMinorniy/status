@@ -653,6 +653,7 @@ footer {
 
     .footer-end > img {
         width: 50%;
+        margin-top: 2%;
     }
 
     .left-footer > p {
