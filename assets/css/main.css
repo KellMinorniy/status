@@ -652,12 +652,6 @@ footer {
         
     }
 
-    .columns > hr {
-        width: 100%;
-        margin: 1%;
-        display: none;
-    }
-
     .footer-end > img {
         width: 70%;
         margin-top: 2%;
