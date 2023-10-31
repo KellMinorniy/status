@@ -643,12 +643,14 @@ footer {
     }
 
     .columns > h4 {
-        font-size: 10px;
+        font-size: 15px;
     }
     
     .columns > a {
-        font-size: 10px;
+        font-size: 11px;
+        margin-top: 10%;
     }
+
 
     .footer-end > img {
         width: 50%;
